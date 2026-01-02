@@ -2073,8 +2073,8 @@ textarea.w-input, textarea.w-select {
   --padding--xlarge: 5rem;
   --padding--med: 3rem;
   --gap--med\<deleted\|variable-196f1660-85b7-2eda-5ec8-e43ca0f5032d\>: 2rem;
-  --color--lime-off: #b2c73a;
-  --color--lime: #d2ff00;
+  --color--lime-off: #4799ff;
+  --color--lime: #2f73fb;
   --color--green-off-white-1: #dde1d2;
   --color--lime-zero: #d2ff0000;
   --text--btn-primary: 1rem;
@@ -2109,7 +2109,7 @@ textarea.w-input, textarea.w-select {
   --text--btn-tertiary: .875px;
   --text--eyebrow: .578125rem;
   --color--cream: #efefe5;
-  --color--grey-2: #c8cbbd;
+  --color--grey-2: #2f73fb;
   --color--orange: #ff6b00;
 }
 
@@ -2719,7 +2719,7 @@ blockquote {
 .btn-w {
   border: 1px solid var(--color--lime);
   background-color: var(--color--lime);
-  color: var(--color--dark-green);
+  color: #fff;
   border-radius: .54rem;
   flex: none;
   justify-content: center;
